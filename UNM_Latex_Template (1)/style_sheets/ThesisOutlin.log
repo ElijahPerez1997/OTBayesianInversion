@@ -1,0 +1,658 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7300 64-bit) (preloaded format=pdflatex 2020.9.1)  20 JUL 2021 14:50
+entering extended mode
+**./ThesisOutlin.tex
+(ThesisOutlin.tex
+LaTeX2e <2020-02-02> patch level 2
+L3 programming layer <2020-02-14> (unmeethesis.cls
+Document Class: unmeethesis 1995/10/31 UNM EECE dissertation class-mod 03/27/02
+
+("C:\Users\Elijah\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\fleqn.clo"
+File: fleqn.clo 2016/12/29 v1.2b Standard LaTeX option (flush left equations)
+\mathindent=\dimen134
+Applying: [2015/01/01] Make \[ robust on input line 50.
+LaTeX Info: Redefining \[ on input line 51.
+Already applied: [0000/00/00] Make \[ robust on input line 62.
+Applying: [2015/01/01] Make \] robust on input line 74.
+LaTeX Info: Redefining \] on input line 75.
+Already applied: [0000/00/00] Make \] robust on input line 83.
+)
+(unm12.clo
+File: unm12.clo 1995/07/26 Standard UNM file (size option)-mod 09/17/01
+)
+\@chosenpointsize=\skip47
+\@scaledpointsize=\skip48
+\@fancybox=\box45
+\do@VerbBox=\toks14
+\@temptextheight=\skip49
+\@temptextwidth=\skip50
+\@temptopmargin=\skip51
+\@tempheadheight=\skip52
+\@tempheadsep=\skip53
+\@tempfootskip=\skip54
+\c@part=\count167
+\c@chapter=\count168
+\c@section=\count169
+\c@subsection=\count170
+\c@subsubsection=\count171
+\c@paragraph=\count172
+\c@subparagraph=\count173
+\c@figure=\count174
+\c@table=\count175
+\abovecaptionskip=\skip55
+\belowcaptionskip=\skip56
+\bibindent=\dimen135
+)
+("C:\Users\Elijah\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsfonts\amssymb.
+sty"
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+("C:\Users\Elijah\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsfonts\amsfonts
+.sty"
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\@emptytoks=\toks15
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+))
+("C:\Users\Elijah\AppData\Local\Programs\MiKTeX 2.9\tex/latex/tools\bm.sty"
+Package: bm 2019/07/24 v1.2d Bold Symbol Support (DPC/FMi)
+\symboldoperators=\mathgroup6
+\symboldletters=\mathgroup7
+\symboldsymbols=\mathgroup8
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 141.
+LaTeX Info: Redefining \bm on input line 209.
+)
+("C:\Users\Elijah\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\graphicx
+.sty"
+Package: graphicx 2019/11/30 v1.2a Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:\Users\Elijah\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\keyval.s
+ty"
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks16
+)
+("C:\Users\Elijah\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\graphics
+.sty"
+Package: graphics 2019/11/30 v1.4a Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Users\Elijah\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\trig.sty
+"
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+("C:\Users\Elijah\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-cfg\grap
+hics.cfg"
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 105.
+
+("C:\Users\Elijah\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-def\pdft
+ex.def"
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen136
+\Gin@req@width=\dimen137
+)
+("C:\Users\Elijah\AppData\Local\Programs\MiKTeX 2.9\tex/latex/float\float.sty"
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count176
+\float@exts=\toks17
+\float@box=\box46
+\@float@everytoks=\toks18
+\@floatcapt=\box47
+)
+("C:\Users\Elijah\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amsmath.s
+ty"
+Package: amsmath 2020/01/20 v2.17e AMS math features
+\@mathmargin=\skip57
+
+For additional information on amsmath, use the `?' option.
+
+("C:\Users\Elijah\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amstext.s
+ty"
+Package: amstext 2000/06/29 v2.01 AMS text
+
+("C:\Users\Elijah\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amsgen.st
+y"
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks19
+\ex@=\dimen138
+))
+("C:\Users\Elijah\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amsbsy.st
+y"
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+LaTeX Info: Redefining \boldsymbol on input line 28.
+\pmbraise@=\dimen139
+)
+("C:\Users\Elijah\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amsopn.st
+y"
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count177
+LaTeX Info: Redefining \frac on input line 227.
+\uproot@=\count178
+\leftroot@=\count179
+LaTeX Info: Redefining \overline on input line 389.
+\classnum@=\count180
+\DOTSCASE@=\count181
+LaTeX Info: Redefining \ldots on input line 486.
+LaTeX Info: Redefining \dots on input line 489.
+LaTeX Info: Redefining \cdots on input line 610.
+\Mathstrutbox@=\box48
+\strutbox@=\box49
+\big@size=\dimen140
+LaTeX Font Info:    Redeclaring font encoding OML on input line 733.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 734.
+\macc@depth=\count182
+\c@MaxMatrixCols=\count183
+\dotsspace@=\muskip16
+\c@parentequation=\count184
+\dspbrk@lvl=\count185
+\tag@help=\toks20
+\row@=\count186
+\column@=\count187
+\maxfields@=\count188
+\andhelp@=\toks21
+\eqnshift@=\dimen141
+\alignsep@=\dimen142
+\tagshift@=\dimen143
+\tagwidth@=\dimen144
+\totwidth@=\dimen145
+\lineht@=\dimen146
+\@envbody=\toks22
+\multlinegap=\skip58
+\multlinetaggap=\skip59
+\mathdisplay@stack=\toks23
+LaTeX Info: Redefining \[ on input line 2859.
+LaTeX Info: Redefining \] on input line 2860.
+)
+("C:\Users\Elijah\AppData\Local\Programs\MiKTeX 2.9\tex/latex/l3backend\l3backe
+nd-pdfmode.def"
+File: l3backend-pdfmode.def 2020-02-03 L3 backend support: PDF mode
+\l__kernel_color_stack_int=\count189
+\l__pdf_internal_box=\box50
+) (ThesisOutlin.aux)
+\openout1 = `ThesisOutlin.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+
+("C:\Users\Elijah\AppData\Local\Programs\MiKTeX 2.9\tex/context/base/mkii\supp-
+pdf.mkii"
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count190
+\scratchdimen=\dimen147
+\scratchbox=\box51
+\nofMPsegments=\count191
+\nofMParguments=\count192
+\everyMPshowfont=\toks24
+\MPscratchCnt=\count193
+\MPscratchDim=\dimen148
+\MPnumerator=\count194
+\makeMPintoPDFobject=\count195
+\everyMPtoPDFconversion=\toks25
+)
+("C:\Users\Elijah\AppData\Local\Programs\MiKTeX 2.9\tex/latex/epstopdf-pkg\epst
+opdf-base.sty"
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+
+("C:\Users\Elijah\AppData\Local\Programs\MiKTeX 2.9\tex/generic/infwarerr\infwa
+rerr.sty"
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+("C:\Users\Elijah\AppData\Local\Programs\MiKTeX 2.9\tex/latex/grfext\grfext.sty
+"
+Package: grfext 2019/12/03 v1.3 Manage graphics extensions (HO)
+
+("C:\Users\Elijah\AppData\Local\Programs\MiKTeX 2.9\tex/generic/kvdefinekeys\kv
+definekeys.sty"
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+))
+("C:\Users\Elijah\AppData\Local\Programs\MiKTeX 2.9\tex/latex/kvoptions\kvoptio
+ns.sty"
+Package: kvoptions 2019/11/29 v3.13 Key value format for package options (HO)
+
+("C:\Users\Elijah\AppData\Local\Programs\MiKTeX 2.9\tex/generic/ltxcmds\ltxcmds
+.sty"
+Package: ltxcmds 2019/12/15 v1.24 LaTeX kernel commands for general use (HO)
+)
+("C:\Users\Elijah\AppData\Local\Programs\MiKTeX 2.9\tex/generic/kvsetkeys\kvset
+keys.sty"
+Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
+))
+("C:\Users\Elijah\AppData\Local\Programs\MiKTeX 2.9\tex/latex/pdftexcmds\pdftex
+cmds.sty"
+Package: pdftexcmds 2019/11/24 v0.31 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+("C:\Users\Elijah\AppData\Local\Programs\MiKTeX 2.9\tex/generic/iftex\iftex.sty
+"
+Package: iftex 2019/11/07 v1.0c TeX engine tests
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 504.
+) [1
+
+
+{C:/Users/Elijah/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
+[2
+
+]
+LaTeX Font Info:    Trying to load font information for U+msa on input line 70.
+
+
+("C:\Users\Elijah\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsfonts\umsa.fd"
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 70.
+
+ ("C:\Users\Elijah\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsfonts\umsb.fd
+"
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+) [3
+
+
+] (ThesisOutlin.toc [4
+
+
+]
+Overfull \hbox (9.08304pt too wide) in paragraph at lines 17--17
+ [][] []\OT1/cmr/m/n/12 The Al-go-rithm: Metropolis-Hastings-within-Gibbs in th
+e DSD-Bayesian |
+ []
+
+)
+\tf@toc=\write3
+\openout3 = `ThesisOutlin.toc'.
+
+ [5] (ThesisOutlin.lof
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [6
+
+])
+\tf@lof=\write4
+\openout4 = `ThesisOutlin.lof'.
+
+
+[7]
+Chapter 1.
+[1
+
+
+] [2]
+Chapter 2.
+
+LaTeX Warning: Command \textellipsis invalid in math mode on input line 99.
+
+
+LaTeX Warning: Command \textellipsis invalid in math mode on input line 99.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 110--111
+
+ []
+
+[3
+
+]
+
+LaTeX Warning: Command \textellipsis invalid in math mode on input line 112.
+
+
+LaTeX Warning: Command \textellipsis invalid in math mode on input line 112.
+
+[4]
+
+LaTeX Warning: Command \textellipsis invalid in math mode on input line 114.
+
+[5] [6]
+Chapter 3.
+[7
+
+] [8]
+
+LaTeX Warning: Command \textellipsis invalid in math mode on input line 165.
+
+
+LaTeX Warning: Command \textellipsis invalid in math mode on input line 166.
+
+[9]
+Underfull \hbox (badness 10000) in paragraph at lines 178--179
+
+ []
+
+[10] [11]
+Overfull \hbox (12.70242pt too wide) in paragraph at lines 236--237
+[]\OT1/cmr/m/n/12 The cost of com-put-ing Sinkhorn di-ver-gence us-ing Sinkhorn
+'s al-go-rithm is $\OMS/cmsy/m/n/12 O\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 n[] [] n
+\OT1/cmr/m/n/12 )$
+ []
+
+[12] [13]
+Chapter 4.
+
+Underfull \vbox (badness 1226) has occurred while \output is active []
+
+ [14
+
+]
+<Convex.png, id=87, 421.575pt x 316.18124pt>
+File: Convex.png Graphic file (type png)
+<use Convex.png>
+Package pdftex.def Info: Convex.png  used on input line 269.
+(pdftex.def)             Requested size: 202.35622pt x 151.7701pt.
+<Convex1.png, id=88, 421.575pt x 316.18124pt>
+File: Convex1.png Graphic file (type png)
+<use Convex1.png>
+Package pdftex.def Info: Convex1.png  used on input line 270.
+(pdftex.def)             Requested size: 202.35622pt x 151.7701pt.
+<fgplot.png, id=89, 421.575pt x 316.18124pt>
+File: fgplot.png Graphic file (type png)
+<use fgplot.png>
+Package pdftex.def Info: fgplot.png  used on input line 271.
+(pdftex.def)             Requested size: 202.35622pt x 151.7701pt.
+
+[15] [16 <./Convex.png (PNG copy)> <./Convex1.png (PNG copy)> <./fgplot.png (PN
+G copy)>] [17]
+Chapter 5.
+
+Underfull \hbox (badness 10000) in paragraph at lines 286--288
+
+ []
+
+[18
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 303--305
+
+ []
+
+[19]
+Underfull \hbox (badness 10000) in paragraph at lines 306--309
+
+ []
+
+[20] [21]
+Chapter 6.
+
+Underfull \hbox (badness 10000) in paragraph at lines 346--347
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 346--347
+
+ []
+
+[22
+
+] [23]
+<noiseData1.png, id=122, 447.92343pt x 390.70969pt>
+File: noiseData1.png Graphic file (type png)
+<use noiseData1.png>
+Package pdftex.def Info: noiseData1.png  used on input line 391.
+(pdftex.def)             Requested size: 289.08951pt x 289.09082pt.
+ [24]
+<theta1.png, id=128, 421.575pt x 316.18124pt>
+File: theta1.png Graphic file (type png)
+<use theta1.png>
+Package pdftex.def Info: theta1.png  used on input line 402.
+(pdftex.def)             Requested size: 180.67546pt x 144.54294pt.
+<theta2.png, id=129, 421.575pt x 316.18124pt>
+File: theta2.png Graphic file (type png)
+<use theta2.png>
+Package pdftex.def Info: theta2.png  used on input line 403.
+(pdftex.def)             Requested size: 180.67546pt x 144.54294pt.
+
+Overfull \hbox (2.41776pt too wide) in paragraph at lines 394--405
+\OT1/cmr/m/n/12 Here are the fol-low-ing com-pu-ta-tions that were em-ployed al
+ong with the DSD-Bayesian
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 394--405
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 394--405
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 394--405
+
+ []
+
+
+Overfull \hbox (8.94244pt too wide) in paragraph at lines 394--405
+[]$\OMS/cmsy/m/n/12 $\OT1/cmr/m/it/12 Proposal\OT1/cmr/m/n/12 : $[] \OMS/cmsy/
+m/n/12  \OML/cmm/m/it/12 Normal\OT1/cmr/m/n/12 (\OML/cmm/b/it/12 []\OML/cmm/m
+/it/12 ; \OT1/cmr/m/n/12 )$ []with co-vari-ance ma-trix $ = \OML/cmm/m/it/12 
+diag\OT1/cmr/m/n/12 (0\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 005\OML/cmm/m/it/12 ; \
+OT1/cmr/m/n/12 0\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 005)$. 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 394--405
+
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [25 <./noiseData1.png (PNG copy)>] [26 <./theta1.png (PNG copy)> <./theta2.png
+ (PNG copy)>]
+<wassDist.png, id=136, 421.575pt x 316.18124pt>
+File: wassDist.png Graphic file (type png)
+<use wassDist.png>
+Package pdftex.def Info: wassDist.png  used on input line 409.
+(pdftex.def)             Requested size: 274.6316pt x 216.81442pt.
+ [27 <./wassDist.png (PNG copy)>]
+<noiseData2.png, id=140, 447.17062pt x 359.84438pt>
+File: noiseData2.png Graphic file (type png)
+<use noiseData2.png>
+Package pdftex.def Info: noiseData2.png  used on input line 427.
+(pdftex.def)             Requested size: 289.0881pt x 289.10033pt.
+
+Overfull \hbox (2.41776pt too wide) in paragraph at lines 430--435
+\OT1/cmr/m/n/12 Here are the fol-low-ing com-pu-ta-tions that were em-ployed al
+ong with the DSD-Bayesian
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 430--435
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 430--435
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 430--435
+
+ []
+
+
+Overfull \hbox (11.55353pt too wide) in paragraph at lines 430--435
+[]$\OMS/cmsy/m/n/12 $\OT1/cmr/m/it/12 Proposal\OT1/cmr/m/n/12 : $[] \OMS/cmsy/
+m/n/12  \OML/cmm/m/it/12 Normal\OT1/cmr/m/n/12 (\OML/cmm/b/it/12 []\OML/cmm/m
+/it/12 ; \OT1/cmr/m/n/12 )$ with co-vari-ance ma-trix $ = \OML/cmm/m/it/12 di
+ag\OT1/cmr/m/n/12 (0\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 00001\OML/cmm/m/it/12 ; \
+OT1/cmr/m/n/12 0\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 00001)$ 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 430--435
+
+ []
+
+[28 <./noiseData2.png (PNG copy)>]
+<untitled1.png, id=144, 421.575pt x 316.18124pt>
+File: untitled1.png Graphic file (type png)
+<use untitled1.png>
+Package pdftex.def Info: untitled1.png  used on input line 439.
+(pdftex.def)             Requested size: 180.67546pt x 122.85667pt.
+<untitled2.png, id=145, 421.575pt x 316.18124pt>
+File: untitled2.png Graphic file (type png)
+<use untitled2.png>
+Package pdftex.def Info: untitled2.png  used on input line 440.
+(pdftex.def)             Requested size: 180.67546pt x 122.85667pt.
+<untitled3.png, id=146, 421.575pt x 316.18124pt>
+File: untitled3.png Graphic file (type png)
+<use untitled3.png>
+Package pdftex.def Info: untitled3.png  used on input line 441.
+(pdftex.def)             Requested size: 180.67546pt x 122.85667pt.
+<untitled4.png, id=147, 421.575pt x 316.18124pt>
+File: untitled4.png Graphic file (type png)
+<use untitled4.png>
+Package pdftex.def Info: untitled4.png  used on input line 442.
+(pdftex.def)             Requested size: 180.67546pt x 122.85667pt.
+ [29 <./untitled1.png (PNG copy)> <./untitled2.png (PNG copy)> <./untitled3.png
+ (PNG copy)> <./untitled4.png (PNG copy)>]
+<HistTheta1W.png, id=151, 421.575pt x 316.18124pt>
+File: HistTheta1W.png Graphic file (type png)
+<use HistTheta1W.png>
+Package pdftex.def Info: HistTheta1W.png  used on input line 448.
+(pdftex.def)             Requested size: 195.12976pt x 144.54294pt.
+<TraceTheta1W.png, id=152, 421.575pt x 316.18124pt>
+File: TraceTheta1W.png Graphic file (type png)
+<use TraceTheta1W.png>
+Package pdftex.def Info: TraceTheta1W.png  used on input line 449.
+(pdftex.def)             Requested size: 195.12976pt x 144.54294pt.
+<HistTheta2W.png, id=153, 421.575pt x 316.18124pt>
+File: HistTheta2W.png Graphic file (type png)
+<use HistTheta2W.png>
+Package pdftex.def Info: HistTheta2W.png  used on input line 450.
+(pdftex.def)             Requested size: 195.12976pt x 144.54294pt.
+<TraceTheta2W.png, id=154, 421.575pt x 316.18124pt>
+File: TraceTheta2W.png Graphic file (type png)
+<use TraceTheta2W.png>
+Package pdftex.def Info: TraceTheta2W.png  used on input line 451.
+(pdftex.def)             Requested size: 195.12976pt x 144.54294pt.
+<HistTheta1L2.png, id=155, 421.575pt x 316.18124pt>
+File: HistTheta1L2.png Graphic file (type png)
+<use HistTheta1L2.png>
+Package pdftex.def Info: HistTheta1L2.png  used on input line 456.
+(pdftex.def)             Requested size: 195.12976pt x 144.54294pt.
+<TraceTheta1L2.png, id=156, 421.575pt x 316.18124pt>
+File: TraceTheta1L2.png Graphic file (type png)
+<use TraceTheta1L2.png>
+Package pdftex.def Info: TraceTheta1L2.png  used on input line 457.
+(pdftex.def)             Requested size: 195.12976pt x 144.54294pt.
+<HistTheta2L2.png, id=157, 421.575pt x 316.18124pt>
+File: HistTheta2L2.png Graphic file (type png)
+<use HistTheta2L2.png>
+Package pdftex.def Info: HistTheta2L2.png  used on input line 458.
+(pdftex.def)             Requested size: 195.12976pt x 144.54294pt.
+<TraceTheta2L2.png, id=158, 421.575pt x 316.18124pt>
+File: TraceTheta2L2.png Graphic file (type png)
+<use TraceTheta2L2.png>
+Package pdftex.def Info: TraceTheta2L2.png  used on input line 459.
+(pdftex.def)             Requested size: 195.12976pt x 144.54294pt.
+<SinkMesh.png, id=159, 421.575pt x 316.18124pt>
+File: SinkMesh.png Graphic file (type png)
+<use SinkMesh.png>
+Package pdftex.def Info: SinkMesh.png  used on input line 464.
+(pdftex.def)             Requested size: 195.12976pt x 144.54294pt.
+<WassMesh.png, id=160, 421.575pt x 316.18124pt>
+File: WassMesh.png Graphic file (type png)
+<use WassMesh.png>
+Package pdftex.def Info: WassMesh.png  used on input line 465.
+(pdftex.def)             Requested size: 195.12976pt x 144.54294pt.
+<L2Mesh.png, id=161, 421.575pt x 316.18124pt>
+File: L2Mesh.png Graphic file (type png)
+<use L2Mesh.png>
+Package pdftex.def Info: L2Mesh.png  used on input line 466.
+(pdftex.def)             Requested size: 195.12976pt x 144.54294pt.
+
+[30 <./HistTheta1W.png (PNG copy)> <./TraceTheta1W.png (PNG copy)> <./HistTheta
+2W.png (PNG copy)> <./TraceTheta2W.png (PNG copy)>] [31 <./HistTheta1L2.png (PN
+G copy)> <./TraceTheta1L2.png (PNG copy)> <./HistTheta2L2.png (PNG copy)> <./Tr
+aceTheta2L2.png (PNG copy)>] [32 <./SinkMesh.png (PNG copy)> <./WassMesh.png (P
+NG copy)> <./L2Mesh.png (PNG copy)>]
+Chapter 7.
+[33
+
+]
+Overfull \hbox (31.98375pt too wide) in paragraph at lines 486--488
+\OT1/cmr/m/n/12 full wave-form in-ver-sion. \OT1/cmr/m/it/12 Com-mu-ni-ca-tions
+ in Math-e-mat-i-cal Sci-ences\OT1/cmr/m/n/12 , 14(8):2309{2330,
+ []
+
+[34
+
+] [35]
+Overfull \hbox (5.41231pt too wide) in paragraph at lines 510--513
+\OT1/cmr/m/n/12 porta-tion on ge-o-met-ric do-mains. \OT1/cmr/m/it/12 ACM Trans
+-ac-tions on Graph-ics\OT1/cmr/m/n/12 , 34:66:1{66:11,
+ []
+
+[36] (ThesisOutlin.aux) ) 
+Here is how much of TeX's memory you used:
+ 3182 strings out of 481556
+ 45388 string characters out of 2913402
+ 280270 words of memory out of 3000000
+ 18347 multiletter control sequences out of 15000+200000
+ 549489 words of font info for 86 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 34i,13n,31p,3123b,259s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Users/Elijah/AppData/Local/Programs/MiKTeX 2.9/fon
+ts/type1/public/amsfonts/cmextra/cmbsy8.pfb><C:/Users/Elijah/AppData/Local/Prog
+rams/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/Elijah/AppD
+ata/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Use
+rs/Elijah/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx
+8.pfb><C:/Users/Elijah/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/ams
+fonts/cm/cmex10.pfb><C:/Users/Elijah/AppData/Local/Programs/MiKTeX 2.9/fonts/ty
+pe1/public/amsfonts/cm/cmmi10.pfb><C:/Users/Elijah/AppData/Local/Programs/MiKTe
+X 2.9/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Users/Elijah/AppData/Local/
+Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi6.pfb><C:/Users/Elijah/A
+ppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/U
+sers/Elijah/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cm
+mi8.pfb><C:/Users/Elijah/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/a
+msfonts/cm/cmmib10.pfb><C:/Users/Elijah/AppData/Local/Programs/MiKTeX 2.9/fonts
+/type1/public/amsfonts/cmextra/cmmib8.pfb><C:/Users/Elijah/AppData/Local/Progra
+ms/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/Elijah/AppData
+/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/E
+lijah/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr17.pf
+b><C:/Users/Elijah/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfont
+s/cm/cmr6.pfb><C:/Users/Elijah/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/pu
+blic/amsfonts/cm/cmr7.pfb><C:/Users/Elijah/AppData/Local/Programs/MiKTeX 2.9/fo
+nts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/Elijah/AppData/Local/Programs/M
+iKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsl12.pfb><C:/Users/Elijah/AppData/Lo
+cal/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/Eli
+jah/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy6.pfb>
+<C:/Users/Elijah/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/
+cm/cmsy8.pfb><C:/Users/Elijah/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/pub
+lic/amsfonts/cm/cmti12.pfb><C:/Users/Elijah/AppData/Local/Programs/MiKTeX 2.9/f
+onts/type1/public/amsfonts/symbols/msbm10.pfb>
+Output written on ThesisOutlin.pdf (43 pages, 780686 bytes).
+PDF statistics:
+ 261 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 116 words of extra memory for PDF output out of 10000 (max. 10000000)
+

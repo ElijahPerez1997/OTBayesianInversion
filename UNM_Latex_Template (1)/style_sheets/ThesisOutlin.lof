@@ -1,0 +1,16 @@
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {4.1}{\ignorespaces Plot of Convexity of DSD quasi-likelihood. Top plots normalized so when $s=-3$ the value on the plot is $1$. Left plot is for wide signals ($\delta = 0.5$) and right plot is for narrow signals ($\delta =0.05$).}}{16}%
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {6.1}{\ignorespaces Observed signals with known posterior, recorded at seven receivers}}{25}%
+\contentsline {figure}{\numberline {6.2}{\ignorespaces Approximate vs. true posteriors for $\theta _1$ and $\theta _2$. Appoximate posteriors found using DSD-Bayesian algorithm and are labeled MCMC (for Markov Chain Monte Carlo).}}{26}%
+\contentsline {figure}{\numberline {6.3}{\ignorespaces Wasserstein distance for the approximate vs true posteriors of $\theta _2$ with varying number of iterations, $M$. MCMC solutions found using DSD-Bayesian framework.}}{27}%
+\contentsline {figure}{\numberline {6.4}{\ignorespaces Observed signals with additive Gaussian noise, recorded at seven receivers}}{28}%
+\contentsline {figure}{\numberline {6.5}{\ignorespaces Trace and Histograms for $\theta _1$ and $\theta _2$ found using DSD-Bayesian framework}}{29}%
+\contentsline {figure}{\numberline {6.6}{\ignorespaces Trace and Histograms for $\theta _1$ and $\theta _2$ found using Wasserstein-Bayesian framework. As seen in this figure as well as Figure 6.5, it is clear to see that the Wasserstein and DSD frameworks are converging to the same posterior because the histograms are centered at nearly the same values and the spread of these histograms are also similar.}}{30}%
+\contentsline {figure}{\numberline {6.7}{\ignorespaces Trace and Histograms for $\theta _1$ and $\theta _2$ found using Gaussian-Bayesian framework. As clearly seen in the figures, the posteriors found from this Gaussian-Bayesian framework converged to incorrect values of $\theta _1$ and $\theta _2$.}}{31}%
+\contentsline {figure}{\numberline {6.8}{\ignorespaces Surface plots of DSD (left), Wasserstein (right), and $L_2$ (bottom) likelihoods for example 2. This shows that the $L_2$ likelihood did not stay convex and that the optimal transport quasi-likelihoods did.}}{32}%
+\addvspace {10\p@ }

@@ -1,0 +1,159 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7300 64-bit) (preloaded format=pdflatex 2020.9.1)  1 JUN 2021 15:10
+entering extended mode
+**./template.tex
+(template.tex
+LaTeX2e <2020-02-02> patch level 2
+L3 programming layer <2020-02-14> (unmeethesis.cls
+Document Class: unmeethesis 1995/10/31 UNM EECE dissertation class-mod 03/27/02
+
+("C:\Users\Elijah\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\fleqn.clo"
+File: fleqn.clo 2016/12/29 v1.2b Standard LaTeX option (flush left equations)
+\mathindent=\dimen134
+Applying: [2015/01/01] Make \[ robust on input line 50.
+LaTeX Info: Redefining \[ on input line 51.
+Already applied: [0000/00/00] Make \[ robust on input line 62.
+Applying: [2015/01/01] Make \] robust on input line 74.
+LaTeX Info: Redefining \] on input line 75.
+Already applied: [0000/00/00] Make \] robust on input line 83.
+)
+(unm12.clo
+File: unm12.clo 1995/07/26 Standard UNM file (size option)-mod 09/17/01
+)
+\@chosenpointsize=\skip47
+\@scaledpointsize=\skip48
+\@fancybox=\box45
+\do@VerbBox=\toks14
+\@temptextheight=\skip49
+\@temptextwidth=\skip50
+\@temptopmargin=\skip51
+\@tempheadheight=\skip52
+\@tempheadsep=\skip53
+\@tempfootskip=\skip54
+\c@part=\count167
+\c@chapter=\count168
+\c@section=\count169
+\c@subsection=\count170
+\c@subsubsection=\count171
+\c@paragraph=\count172
+\c@subparagraph=\count173
+\c@figure=\count174
+\c@table=\count175
+\abovecaptionskip=\skip55
+\belowcaptionskip=\skip56
+\bibindent=\dimen135
+)
+("C:\Users\Elijah\AppData\Local\Programs\MiKTeX 2.9\tex/latex/l3backend\l3backe
+nd-pdfmode.def"
+File: l3backend-pdfmode.def 2020-02-03 L3 backend support: PDF mode
+\l__kernel_color_stack_int=\count176
+\l__pdf_internal_box=\box46
+) (template.aux)
+\openout1 = `template.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+ [1
+
+
+{C:/Users/Elijah/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}] [2
+
+]
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 58.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 58.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 58.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <10.95> on input line 59.
+ [3
+
+] [4
+
+
+] (template.toc)
+\tf@toc=\write3
+\openout3 = `template.toc'.
+
+ [5
+
+
+] (template.lof)
+\tf@lof=\write4
+\openout4 = `template.lof'.
+
+ [6
+
+]
+(template.lot)
+\tf@lot=\write5
+\openout5 = `template.lot'.
+
+ [7
+
+] [8
+
+]
+Chapter 1.
+[1
+
+
+]
+Chapter 2.
+[2
+
+] [3
+
+]
+Appendix A.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <24.88> on input line 109.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <20.74> on input line 109.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <17.28> on input line 109.
+[4
+
+]
+Appendix B.
+[5
+
+] (template.aux) ) 
+Here is how much of TeX's memory you used:
+ 513 strings out of 481556
+ 8605 string characters out of 2913402
+ 239246 words of memory out of 3000000
+ 15817 multiletter control sequences out of 15000+200000
+ 541533 words of font info for 54 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 25i,8n,29p,151b,195s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Users/Elijah/AppData/Local/Programs/MiKTeX 2.9/fonts/type
+1/public/amsfonts/cm/cmbx12.pfb><C:/Users/Elijah/AppData/Local/Programs/MiKTeX 
+2.9/fonts/type1/public/amsfonts/cm/cmbx8.pfb><C:/Users/Elijah/AppData/Local/Pro
+grams/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Users/Elijah/App
+Data/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Use
+rs/Elijah/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr1
+0.pfb><C:/Users/Elijah/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/ams
+fonts/cm/cmr12.pfb><C:/Users/Elijah/AppData/Local/Programs/MiKTeX 2.9/fonts/typ
+e1/public/amsfonts/cm/cmr17.pfb><C:/Users/Elijah/AppData/Local/Programs/MiKTeX 
+2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/Elijah/AppData/Local/Prog
+rams/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/Elijah/AppD
+ata/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti12.pfb>
+Output written on template.pdf (13 pages, 123436 bytes).
+PDF statistics:
+ 85 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+

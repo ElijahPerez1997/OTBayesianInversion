@@ -1,0 +1,22 @@
+\contentsline {chapter}{List of Figures}{vi}%
+\contentsline {chapter}{\numberline {1}Introduction}{1}%
+\contentsline {chapter}{\numberline {2}Bayesian Inversion}{3}%
+\contentsline {section}{\numberline {2.1}Bayes' Theorem}{3}%
+\contentsline {section}{\numberline {2.2}Likelihood Structure}{4}%
+\contentsline {chapter}{\numberline {3}Concepts from Optimal Transport}{7}%
+\contentsline {section}{\numberline {3.1}Kantorovich Formulation of Optimal Transport}{8}%
+\contentsline {section}{\numberline {3.2}Wasserstein Metric}{9}%
+\contentsline {section}{\numberline {3.3}Sinkhorn Divergence}{10}%
+\contentsline {section}{\numberline {3.4}Sinkhorn's Algorithm}{11}%
+\contentsline {chapter}{\numberline {4}Optimal Transport Based Bayesian Inversion}{14}%
+\contentsline {section}{\numberline {4.1}DSD Quasi-Likelihood}{14}%
+\contentsline {section}{\numberline {4.2}Convexity of DSD Quasi-Likelihood}{15}%
+\contentsline {chapter}{\numberline {5}Numerical Algorithm}{18}%
+\contentsline {section}{\numberline {5.1}Gibbs Sampler}{19}%
+\contentsline {section}{\numberline {5.2}Metropolis-Hastings Sampler}{19}%
+\contentsline {section}{\numberline {5.3}The Algorithm: Metropolis-Hastings-within-Gibbs in the DSD-Bayesian Framework}{21}%
+\contentsline {chapter}{\numberline {6}Numerical Examples from Seismic Inversion}{22}%
+\contentsline {section}{\numberline {6.1}Problem Formulation}{22}%
+\contentsline {section}{\numberline {6.2}Example 1: Known Posterior}{23}%
+\contentsline {section}{\numberline {6.3}Example 2: Additive Gaussian Noise with Unknown Phase and Amplitude}{27}%
+\contentsline {chapter}{\numberline {7}Conclusion}{33}%

@@ -11,3 +11,7 @@ To view final draft of thesis open file labled "OTBayesianInversion.pdf" that is
 Folders:
 
 "Codes" contains MatLab files and examples that implement the Metropolis-Hastings within Gibbs sampler within the optimal transport Bayesian framework. These examples show Bayesian inference for finding paramter vectors of given signals. This is done using the wave equation (differential equation) as a forward model, and then findning the parameters to the wave equation that match the given signal (nonlinear regression).
+
+"Figures" contains figures created using MatLab and Python that are used in the paper.
+
+"UNM_Latex_Template" contains LaTeX files associated with the paper.
